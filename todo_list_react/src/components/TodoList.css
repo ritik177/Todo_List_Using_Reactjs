@@ -114,9 +114,7 @@ body {
     margin-right: 10px;
   }
 
-  .todo_list li span {
-    font-size: 16px;
-  }
+ 
   
   .todo_list li button {
     padding: 7px 12px;
