@@ -113,7 +113,8 @@ function TodoList() {
                   <span
                     style={{
                       textDecoration: task.completed ? "line-through" : "none",
-                      marginLeft: "10px", // Add margin for spacing
+                      marginLeft: "10px",
+                      // Add margin for spacing
                     }}
                   >
                     {task.title}
