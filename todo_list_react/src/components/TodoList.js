@@ -51,6 +51,7 @@ function TodoList() {
   };
 
   // Filter tasks based on the selected filter option
+
   const filteredTasks = tasks.filter((task) => {
     if (filter === "completed") {
       return task.completed;
